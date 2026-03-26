@@ -1,0 +1,19 @@
+.menu {
+    user-select: none;
+    margin: 80px 0;
+    background: linear-gradient(#fff, #ca954abd, #fff);
+}
+
+.cardList {
+    margin: 20px 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+}
+
+@media (max-width: 768px) {
+    .cardList {
+        gap: 15px;
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

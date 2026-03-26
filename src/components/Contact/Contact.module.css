@@ -1,0 +1,48 @@
+.contact {
+    background: linear-gradient(#FFFEFC, #E1BC79);
+    user-select: none;
+    padding-bottom: 40px;
+    color: #402D12;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.social {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.link {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    color: #402D12;
+}
+
+.link:hover {
+    text-shadow: 0px 0px 15px #d28d3f;
+    cursor: pointer;
+}
+
+.copyRight {
+    text-align: center;
+    margin-top: 40px;
+    opacity: 0.8;
+}
+
+@media (max-width: 850px) {
+    .content {
+        flex-direction: column;
+        gap: 40px;
+    }
+}
