@@ -7,7 +7,7 @@ export default function Promo() {
         {
             id: 1,
             name: "Combo Individual",
-            items: "1 pastel + 1 refri 300ml",
+            items: "1 pastel + 1 refri 350ml",
             price: 12.9,
             img: "individual"
         },

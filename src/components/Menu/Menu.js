@@ -4,12 +4,12 @@ import Card from '@/components/Card/Card.js';
 export default function Menu() {
 
     const items = [
-        { id: 1, img: "carne", name: "Carne", desc: "Carne moída temperada, refogada com cebola e temperos especiais.", price: 8.0 },
-        { id: 2, img: "queijo", name: "Queijo", desc: "Queijo derretido, cremoso por dentro e puxando a cada mordida.", price: 8.0 },
-        { id: 3, img: "frango", name: "Frango", desc: "Frango desfiado bem temperado, suculento e cheio de sabor.", price: 9.9 },
-        { id: 4, img: "calabresa", name: "Calabresa", desc: "Calabresa fatiada com cebola, levemente picante e bem dourada.", price: 9.9 },
-        { id: 5, img: "brocolis", name: "Brócolis com Queijo", desc: "Brócolis fresquinho combinado com queijo cremoso e derretido.", price: 11.9 },
-        { id: 6, img: "carnequeijo", name: "Carne com Queijo", desc: "Carne moída temperada com muito queijo derretido, combinação clássica.", price: 11.9 }
+        { id: 1, img: "carne", name: "Carne", desc: "Carne moída temperada, com cebola e temperos especiais", price: 8.0 },
+        { id: 2, img: "queijo", name: "Queijo", desc: "Queijo derretido, cremoso e puxando a cada mordida", price: 8.0 },
+        { id: 3, img: "frango", name: "Frango", desc: "Frango desfiado bem temperado, cheio de sabor", price: 9.9 },
+        { id: 4, img: "calabresa", name: "Calabresa", desc: "Calabresa fatiada com cebola, levemente picante", price: 9.9 },
+        { id: 5, img: "brocolis", name: "Brócolis com Queijo", desc: "Brócolis fresquinho com queijo cremoso e derretido", price: 11.9 },
+        { id: 6, img: "carnequeijo", name: "Carne com Queijo", desc: "Carne moída temperada com muito queijo derretido", price: 11.9 }
     ];
 
     return (
