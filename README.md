@@ -2,7 +2,6 @@
 
 Landing page moderna para uma pastelaria, desenvolvida com foco em design atrativo, responsividade e experiência do usuário.
 
----
 
 ## 🚀 Tecnologias utilizadas
 
@@ -10,7 +9,6 @@ Landing page moderna para uma pastelaria, desenvolvida com foco em design atrati
 * 🎨 CSS Modules
 * 💡 JavaScript (ES6+)
 
----
 
 ## 📱 Funcionalidades
 
@@ -19,14 +17,12 @@ Landing page moderna para uma pastelaria, desenvolvida com foco em design atrati
 * Cardápio com grid adaptável
 * Layout otimizado para mobile e desktop
 
----
 
 ## 🖥️ Preview
 
 🔗 Acesse o projeto:
 https://pastelaria-git-main-rafaelasimions-projects.vercel.app/
 
----
 
 ## 🎯 Objetivo
 
