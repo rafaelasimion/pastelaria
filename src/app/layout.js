@@ -13,6 +13,11 @@ export const jaro = Jaro({
   variable: '--font-jaro'
 })
 
+export const metadata = {
+  title: "Pastel do Coelho",
+  description: "Pastel feito na hora, crocante e delicioso!",
+};
+
 export default function RootLayout({ children }) {
   return (
     <html lang="pt-br">
