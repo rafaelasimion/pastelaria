@@ -23,14 +23,14 @@ export default function Contact() {
                 <div className={styles.location}>
                     <p className={styles.title}>Localização</p>
                     <p>Av. Cinco, 123.</p>
-                    <p>Centro - Franca, SP</p>
+                    <p>Centro - SP</p>
                 </div>
 
                 <div className={styles.social}>
                     <p className={styles.title}>Nos siga</p>
                     <a href="#" className={styles.link}>
                         <FaWhatsapp />
-                        (16) 91234-5678
+                        (16) 91234-0000
                     </a>
                     <a href="#" className={styles.link}>
                         <FaInstagram />
